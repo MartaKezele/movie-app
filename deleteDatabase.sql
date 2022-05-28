@@ -1,0 +1,10 @@
+delete from MovieDirector
+delete from Director
+delete from MovieActor
+delete from Actor
+delete from MovieGenre
+delete from Genre
+delete from Movie
+delete from Genre
+delete from AppUser
+delete from UserRole
